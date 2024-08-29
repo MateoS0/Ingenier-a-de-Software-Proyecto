@@ -1,0 +1,2 @@
+{"nombre": "rosalia suarez", "direccion": "calle 34b", "contacto": "3113387190"}
+{"nombre": "La Salle", "direccion": "Carrera 20", "contacto": "123"}
